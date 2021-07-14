@@ -6,7 +6,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTestclass
 ReviewAnalyserApplicationTests {
-
   private ReviewAnalyserApplication analyser = new ReviewAnalyserApplication();
 
   @Test
